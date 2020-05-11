@@ -1,1 +1,0 @@
-<span class="post-metacat"><?php printf( esc_html__( 'By ', 'leanex-lite' ) ); the_author_posts_link(); ?></span>
